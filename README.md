@@ -12,4 +12,4 @@ Here is the logic of the script:
 4. Find test elements and extract full electrical test information. Create a dictionary: keys - testname, values - bin information in list
 5. Update dictionary with FT and QA limits
 6. Write updated dictionary in excel
-7. Compare limits and put flag on limits - O if proper guardband is applied; 1 if improper guardband
+7. Compare limits and put flag on limits - 0 if proper guardband is applied; 1 if improper guardband
